@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://brenoserendev.github.io/csb-lz95od/static/css/main.32a0f727.chunk.css",
-    "main.js": "https://brenoserendev.github.io/csb-lz95od/static/js/main.8fcea7e7.chunk.js",
-    "main.js.map": "https://brenoserendev.github.io/csb-lz95od/static/js/main.8fcea7e7.chunk.js.map",
+    "main.js": "https://brenoserendev.github.io/csb-lz95od/static/js/main.1f3a2311.chunk.js",
+    "main.js.map": "https://brenoserendev.github.io/csb-lz95od/static/js/main.1f3a2311.chunk.js.map",
     "runtime-main.js": "https://brenoserendev.github.io/csb-lz95od/static/js/runtime-main.5d857264.js",
     "runtime-main.js.map": "https://brenoserendev.github.io/csb-lz95od/static/js/runtime-main.5d857264.js.map",
     "static/js/2.eac64ce8.chunk.js": "https://brenoserendev.github.io/csb-lz95od/static/js/2.eac64ce8.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.5d857264.js",
     "static/js/2.eac64ce8.chunk.js",
     "static/css/main.32a0f727.chunk.css",
-    "static/js/main.8fcea7e7.chunk.js"
+    "static/js/main.1f3a2311.chunk.js"
   ]
 }
